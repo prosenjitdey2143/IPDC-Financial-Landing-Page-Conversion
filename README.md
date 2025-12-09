@@ -8,7 +8,7 @@ This is a pixel-perfect, high-fidelity front-end implementation of the **IPDC Fi
 
 | Item | Link |
 | :--- | :--- |
-| **Live Site URL** | [PLACEHOLDER: Insert your live deployment link (e.g., Netlify)] |
+| **Live Site URL** | [(https://prosenjitdey2143.github.io/IPDC-Financial-Landing-Page-Conversion/)] |
 | **Figma Source** | [(https://www.figma.com/design/w8u2XsoF2WJIuX5UmDujgk/Assignment--Copy-?node-id=131-53&t=GjMioFPPK8JSAA8J-0)] |
 
 ## ✨ Key Highlights
